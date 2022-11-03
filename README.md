@@ -1,4 +1,4 @@
-# Projeto_Lista_de_Exercícios
+# Projeto: Lista de Exercícios
 Integrantes:
 - Kevin Willian Lima de Oliveira (kevin.oliveira@unioeste.br)
 

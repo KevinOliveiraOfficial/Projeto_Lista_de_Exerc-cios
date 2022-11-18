@@ -14,5 +14,5 @@ Ambiente de desenvolvimento:
 
 
 # Tutorial
-Para executar o programa, compile os arquivos .C para criar um executável, em seguida execute.
+Para executar o programa, compile os arquivos .C em um compilador de sua preferência para criar um executável, em seguida execute.
 - Nota: há rotinas que foram requisitadas, que não necessáriamente será um executável, mas pode ser usado para extensão
